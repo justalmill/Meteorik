@@ -1,0 +1,45 @@
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Template.exe
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Template.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\resources.pri
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\AppxManifest.xml
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\New Unity Project 1.build.appxrecipe
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-UnityScript.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Boo.Lang.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\BridgeInterface.winmd
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngine.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngineDelegates.winmd
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngineProxy.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityPlayer.winmd
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityScript.Lang.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\WinRTBridge.winmd
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\WinRTLegacy.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngine.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityPlayer.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityPlayer.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\WinRTBridge.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\BridgeInterface.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\BridgeInterface.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngineDelegates.dll
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngineDelegates.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\UnityEngineProxy.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-UnityScript-firstpass.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\bin\ARM\Debug\Assembly-UnityScript.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\New Unity Project 1.csprojResolveAssemblyReference.cache
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\Template.exe
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\Template.pdb
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\New Unity Project 1.csproj.GenerateResource.Cache
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\priconfig.xml
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\layout.resfiles
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\resources.resfiles
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\pri.resfiles
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\qualifiers.txt
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\justin\Documents\New Unity Project 1\build\New Unity Project 1\obj\ARM\Debug\ProjectArchitectures.txt
